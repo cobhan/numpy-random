@@ -8,3 +8,5 @@ https://www.numpy.org/devdocs/reference/generated/numpy.random.randn.html
 https://en.wikipedia.org/wiki/Random_number_generation
 https://whatis.techtarget.com/definition/pseudo-random-number-generator-PRNG
 https://www.python-course.eu/python_numpy_probability.php
+https://www.geeksforgeeks.org/numpy-random-rand-python/ - explanation of numpy.random.rand sub function
+
